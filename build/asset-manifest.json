@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.502a24c3.css",
+    "main.js": "/static/js/main.3d1e05f2.js",
+    "static/media/i360.png": "/static/media/i360.005d4d450b641485dbc8.png",
+    "static/media/eshop.png": "/static/media/eshop.94c6afca4b72e066c950.png",
+    "static/media/project.png": "/static/media/project.638dbc6b61674b19e31a.png",
+    "static/media/assur.png": "/static/media/assur.8e766c4df6934fef36d1.png",
+    "static/media/mango.png": "/static/media/mango.11ff05d8b65c271de4d6.png",
+    "static/media/app.jpeg": "/static/media/app.76b962adacebea2d8fca.jpeg",
+    "static/media/logo.png": "/static/media/logo.9fba9278c2f8a29672cc.png",
+    "static/media/web.png": "/static/media/web.4679dbf68fabebe2a44d.png",
+    "static/media/ionic.png": "/static/media/ionic.3d2c3da3ba36280396f6.png",
+    "static/media/ps.png": "/static/media/ps.fe851399c89899288076.png",
+    "static/media/kill.png": "/static/media/kill.6efd8a07e02e4ceedfd3.png",
+    "static/media/php.png": "/static/media/php.23397daadafbc9964e5e.png",
+    "static/media/wordpress.png": "/static/media/wordpress.10b268dbf7ee88ad10e9.png",
+    "static/media/mysql.png": "/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "index.html": "/index.html",
+    "main.502a24c3.css.map": "/static/css/main.502a24c3.css.map",
+    "main.3d1e05f2.js.map": "/static/js/main.3d1e05f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.502a24c3.css",
+    "static/js/main.3d1e05f2.js"
+  ]
+}
